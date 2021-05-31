@@ -11,3 +11,12 @@ public class StudentApplication {
 	}
 
 }
+
+/***
+ * 
+ * Post - create - C
+ *  * Get - fetch - R
+ * Put - edit - U
+ * Delete - delete - D
+ * 
+ */
