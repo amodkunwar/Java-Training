@@ -15,12 +15,6 @@ public class HelloWorldImpl implements HelloWorld {
 }
 
 /***
- * OK - 200
- * Not found - 404
- * forbidden - 403
- * unauthorised - 401
- * intrnal server error - 500
- * Bad request = 400
- * 
- * 
+ * OK - 200 Not found - 404 forbidden - 403 unauthorised - 401 intrnal server
+ * error - 500 Bad request = 400
  */
